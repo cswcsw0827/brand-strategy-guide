@@ -36,12 +36,6 @@ English: "brand strategy", "brand positioning", "brand plan", "brand blueprint".
 
 > 如果以上两个 skill 都未安装，只能走 **MD 输出模式**——生成结构化 Markdown brief 后，单独交给排版工具处理。
 
-### 可选 Skill
-
-| Skill | 用途 |
-|-------|------|
-| [`logo-generator`](https://github.com/) | 品牌视觉模块中生成 LOGO 方案 |
-
 ### Python 工具（仅 brief 问卷转换）
 
 `scripts/convert_brief_to_docx.py` 用于将 Markdown 格式的 brief 问卷转为 Word 文档。需要：
