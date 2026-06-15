@@ -50,6 +50,8 @@
 
 生态位 = 市场空白 ∩ 用户需求 ∩ 自身能力。生态位找到之后，品牌才有清晰的"不做什么"的边界。
 
+![生态位公式：市场空白 ∩ 用户需求 ∩ 自身能力](assets/niche-formula.png)
+
 ### 两个核心决策树
 
 一切策略判断由两个不可跳过的决策树驱动：
@@ -98,6 +100,12 @@
   └─ 否 → 回退选择最强路径
 ```
 
+### 四步极简创建品牌路径
+
+从混沌到清晰的品牌创建，只需四步：
+
+![四步极简创建品牌路径](assets/brand-process.png)
+
 ### 定位策略一致性原则（三条铁律）
 
 1. **定位方法选择主决策依据 = 生态位分析**。用户意见仅在多方案都成立时起 tiebreaker 作用
@@ -129,6 +137,8 @@
 | **PESTEL 宏观分析** | 政治/经济/社会/技术/环境/法律六维度扫描外部环境 | 行业趋势分析的维度框架 |
 | **SWOT 交叉分析** | S×O（进攻）、W×T（防御）、S×T（转化）、W×O（补强） | 自身诊断的标准操作 |
 | **4P/4C 营销组合** | Product/Price/Place/Promotion ↔ Consumer/Cost/Convenience/Communication | 产品策略、定价策略、渠道策略、传播策略的框架 |
+
+![品牌金字塔五层模型](assets/brand-pyramid.png)
 
 > 方法论详情见 `references/methodology.md`，理论速查见 `references/theory-library.md`，输出质量规范见 `references/output-spec.md`。
 
