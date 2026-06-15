@@ -318,12 +318,19 @@ English: "brand strategy", "brand positioning", "brand plan", "brand blueprint",
 
 ## 安装
 
+### Claude Code
+
 ```bash
-mkdir -p ~/.claude/skills
 git clone https://github.com/DevinKuang/brand-strategy-guide.git ~/.claude/skills/brand-strategy-guide
 ```
 
-克隆后无需额外配置，Claude Code 会自动加载 `SKILL.md`。
+### Codex
+
+```bash
+git clone https://github.com/DevinKuang/brand-strategy-guide.git ~/.codex/skills/brand-strategy-guide
+```
+
+克隆后无需额外配置，`SKILL.md` 会被自动加载。两种平台的技能格式完全兼容。
 
 ---
 
